@@ -11,4 +11,4 @@ Note: 1. This project can only operate on three consistent ranges of raster data
 3. The default path of the output fused CSV file is the path of this project.
 # Visuals
 [Image text]!
-(http://github.com/Marquis-Ma/python-assignment2/screenshots.png)
+(https://github.com/Marquis-Ma/python-assignment2/blob/master/screenshots.png)
