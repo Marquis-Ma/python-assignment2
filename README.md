@@ -10,5 +10,4 @@ Note: 1. This project can only operate on three consistent ranges of raster data
 2. The sum of weights cannot be guaranteed to be 1 when determining the weight.
 3. The default path of the output fused CSV file is the path of this project.
 # Visuals
-[Image text]!
-(https://github.com/Marquis-Ma/python-assignment2/blob/master/screenshots.png)
+[Image text]!(https://github.com/Marquis-Ma/python-assignment2/blob/master/screenshots.png)
